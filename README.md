@@ -4,4 +4,4 @@
 - mark six
 - use of api to change english to minnion language 
 
-link of live demo: 
+link of live demo: https://miniontranslates.netlify.app
